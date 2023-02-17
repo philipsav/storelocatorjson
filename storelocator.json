@@ -1,34 +1,36 @@
-  {
-  	"type": "FeatureCollection",
-  	"features": [{
-  			"geometry": {
-  				"type": "Point",
-  				"coordinates": [-83.0889065, 40.158432]
-  			},
-  			"type": "Feature",
-  			"properties": {
-  				"category": "sophi",
-  				"hours": "10am - 6pm",
-  				"address": "4000 West Powell Rd. Powell OH 4306",
-  				"name": "Giant Eagle",
-  				"phone": "614-889-8073",
-  				"storeid": "01"
-  			}
-  		},
-  		{
-  			"geometry": {
-  				"type": "Point",
-  				"coordinates": [-73.989308, 40.741895]
-  			},
-  			"type": "Feature",
-  			"properties": {
-  				"category": "sophi",
-  				"hours": "10am - 6pm",
-  				"address": "195 5th Ave, New York, NY 11217",
-  				"name": "Giant Eagle",
-  				"phone": "614-294-2168",
-  				"storeid": "02"
-  			}
-  		}
-  	]
-  }
+let storeData = {
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0889065, 40.158432
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "4000 West Powell Rd. Powell OH 4306",
+                "name": "Giant Eagle",
+                "phone": "614-889-8073",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "195 5th Ave, New York, NY 11217",
+                "name": "Giant Eagle",
+                "phone": "614-294-2168",
+                "storeid": "02"
+            }
+        }
+    ]
+}
