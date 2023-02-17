@@ -1,4 +1,4 @@
-let storeData = {
+{
     "type": "FeatureCollection",
     "features": [{
             "geometry": {
