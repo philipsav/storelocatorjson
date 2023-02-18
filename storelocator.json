@@ -1,21 +1,6 @@
 {
     "type": "FeatureCollection",
-    "features": [{
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-83.0889065, 40.158432
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "sophi",
-                "hours": "10am - 6pm",
-                "address": "4000 West Powell Rd. Powell OH 4306",
-                "name": "Giant Eagle",
-                "phone": "614-889-8073",
-                "storeid": "0"
-            }
-        },
+    "features": [
         {
             "geometry": {
                 "type": "Point",
