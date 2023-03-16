@@ -45,7 +45,7 @@
                 "address": "900 North Leverett Avenue, Fayetteville AR 72701",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "1"
+                "storeid": "2"
             }
         },
         {
@@ -61,7 +61,7 @@
                 "address": "2511 Hearst Avenue, Berkeley CA 94709",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "1"
+                "storeid": "3"
             }
         },
         {
@@ -93,7 +93,7 @@
                 "address": "3823 Shannon Run Trail, Louisville KY 40299",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "1"
+                "storeid": "4"
             }
         },
         {
@@ -125,7 +125,7 @@
                 "address": "712 Stream View Trail, Louisville KY 40258",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "1"
+                "storeid": "5"
             }
         }
     ]
