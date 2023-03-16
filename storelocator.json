@@ -77,7 +77,7 @@
                 "address": "1433 Bretton View Road, Annapolis MD 21409",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "1"
+                "storeid": "4"
             }
         },
         {
@@ -93,7 +93,7 @@
                 "address": "3823 Shannon Run Trail, Louisville KY 40299",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "4"
+                "storeid": "5"
             }
         },
         {
@@ -109,7 +109,7 @@
                 "address": "3145 19th Avenue Court, Greeley CO 80631",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "1"
+                "storeid": "6"
             }
         },
         {
@@ -125,7 +125,7 @@
                 "address": "712 Stream View Trail, Louisville KY 40258",
                 "name": "Giant Eagle II",
                 "phone": "614-294-2168",
-                "storeid": "5"
+                "storeid": "7"
             }
         }
     ]
