@@ -31,6 +31,102 @@
                 "phone": "614-294-2168",
                 "storeid": "1"
             }
+        },
+         {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "900 North Leverett Avenue, Fayetteville AR 72701",
+                "name": "Giant Eagle II",
+                "phone": "614-294-2168",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "2511 Hearst Avenue, Berkeley CA 94709",
+                "name": "Giant Eagle II",
+                "phone": "614-294-2168",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "1433 Bretton View Road, Annapolis MD 21409",
+                "name": "Giant Eagle II",
+                "phone": "614-294-2168",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "3823 Shannon Run Trail, Louisville KY 40299",
+                "name": "Giant Eagle II",
+                "phone": "614-294-2168",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "3145 19th Avenue Court, Greeley CO 80631",
+                "name": "Giant Eagle II",
+                "phone": "614-294-2168",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.989308, 40.741895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "sophi",
+                "hours": "10am - 6pm",
+                "address": "712 Stream View Trail, Louisville KY 40258",
+                "name": "Giant Eagle II",
+                "phone": "614-294-2168",
+                "storeid": "1"
+            }
         }
     ]
 }
