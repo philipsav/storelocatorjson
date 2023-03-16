@@ -35,7 +35,7 @@
          {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.989308, 40.741895
+                "coordinates": [-94.170420, 36.076070
                 ]
             },
             "type": "Feature",
@@ -51,7 +51,7 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.989308, 40.741895
+                "coordinates": [-122.259590, 37.875389
                 ]
             },
             "type": "Feature",
@@ -67,7 +67,7 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.989308, 40.741895
+                "coordinates": [-76.471640, 39.026140
                 ]
             },
             "type": "Feature",
@@ -83,7 +83,7 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.989308, 40.741895
+                "coordinates": [-85.600300, 38.189460
                 ]
             },
             "type": "Feature",
@@ -99,15 +99,15 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.989308, 40.741895
+                "coordinates": [-72.4814159, 41.808431
                 ]
             },
             "type": "Feature",
             "properties": {
                 "category": "sophi",
                 "hours": "10am - 6pm",
-                "address": "3145 19th Avenue Court, Greeley CO 80631",
-                "name": "Giant Eagle II2",
+                "address": "23 Columbia Drive, Manchester CT 06042",
+                "name": "Giant Eagle II",
                 "phone": "614-294-2168",
                 "storeid": "6"
             }
@@ -115,7 +115,7 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-73.989308, 40.741895
+                "coordinates": [-85.8826, 38.136864
                 ]
             },
             "type": "Feature",
