@@ -8,7 +8,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "piggypaint",
                 "hours": "10am - 6pm",
                 "address": "4000 West Powell Rd. Powell OH 4306",
                 "name": "Giant Eagle",
@@ -24,7 +24,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "piggypaint",
                 "hours": "10am - 6pm",
                 "address": "195 5th Ave, New York, NY 11217",
                 "name": "Giant Eagle II",
@@ -40,7 +40,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "piggypaint",
                 "hours": "10am - 6pm",
                 "address": "900 North Leverett Avenue, Fayetteville AR 72701",
                 "name": "Giant Eagle II",
@@ -56,7 +56,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "rockthelocks",
                 "hours": "10am - 6pm",
                 "address": "2511 Hearst Avenue, Berkeley CA 94709",
                 "name": "Giant Eagle II",
@@ -72,7 +72,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "rockthelocks",
                 "hours": "10am - 6pm",
                 "address": "1433 Bretton View Road, Annapolis MD 21409",
                 "name": "Giant Eagle II",
@@ -88,7 +88,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "rockthelocks",
                 "hours": "10am - 6pm",
                 "address": "3823 Shannon Run Trail, Louisville KY 40299",
                 "name": "Giant Eagle II",
@@ -104,7 +104,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "piggypaint",
                 "hours": "10am - 6pm",
                 "address": "23 Columbia Drive, Manchester CT 06042",
                 "name": "Giant Eagle II",
@@ -120,7 +120,7 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "sophi",
+                "category": "rockthelocks",
                 "hours": "10am - 6pm",
                 "address": "712 Stream View Trail, Louisville KY 40258",
                 "name": "Giant Eagle II",
